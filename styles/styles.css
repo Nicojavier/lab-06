@@ -9,13 +9,15 @@ header  {
 
 .cabeceraPrincipal  {
     padding: 40px 10% 40px 10%;
-    background-color: aquamarine;
+    background-image: url(/img/bg_header.jpg);
+    background-color: white;
 }
 
 .tituloPrincipal  {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
+    background-color: white;
 }
 
 .menuPrincipal  {
@@ -41,7 +43,6 @@ header  {
 main    {
     margin: 0px 10% 0px 10%;
     background-color: brown;
-    height: ;
 }
 
 .contenidoPrincipal {
